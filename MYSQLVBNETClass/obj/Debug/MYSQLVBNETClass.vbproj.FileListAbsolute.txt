@@ -1,0 +1,16 @@
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\bin\Debug\MYSQLVBNETClass.exe.config
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\bin\Debug\MYSQLVBNETClass.exe
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\bin\Debug\MYSQLVBNETClass.pdb
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\bin\Debug\MYSQLVBNETClass.xml
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\bin\Debug\MySql.Data.dll
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\bin\Debug\Google.Protobuf.dll
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\bin\Debug\MySql.Data.xml
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\obj\Debug\MYSQLVBNETClass.vbprojResolveAssemblyReference.cache
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\obj\Debug\MYSQLVBNETClass.Form1.resources
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\obj\Debug\MYSQLVBNETClass.Resources.resources
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\obj\Debug\MYSQLVBNETClass.vbproj.GenerateResource.Cache
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\obj\Debug\MYSQLVBNETClass.exe
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\obj\Debug\MYSQLVBNETClass.xml
+c:\users\mastarman\documents\visual studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\obj\Debug\MYSQLVBNETClass.pdb
+C:\Users\MasTarman\Documents\Visual Studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\obj\Debug\MYSQLVBNETClass.MysqlToCombo.resources
+C:\Users\MasTarman\Documents\Visual Studio 2017\Youtube\MYSQLVBNETClass\MYSQLVBNETClass\obj\Debug\MYSQLVBNETClass.MysqlListbox.resources
